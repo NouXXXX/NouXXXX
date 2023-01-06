@@ -1,7 +1,6 @@
 ## Hello 👋🏻
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NouXXXX&show_icons=true&theme=tokyonight)
+* 무지는 지식보다 더 확신을 가지게 한다
 
 My velog <br/>
 &emsp;&ensp;&nbsp;↓ <br/>
